@@ -1,5 +1,5 @@
-id|Sitzung|Thema|Subthemen|Tag|Übungen
----|---|---|---|---|---
+Sitzung|Thema|Subthemen|Tag|Übungen
+---|---|---|---|---
 1|Einführung|- Was ist Statistik und warum machen wir das?  - Grundgesamtheit und Stichprope - Erste Beschreibung einer Stichprobe durch den Mittelwert |19.04.2018|1
 2|Lage- und Streuparamter|- Lageparameter: Mittelwert Modus Median - Streuparameter: Standardabweichung Interquartilabstand - Visualisieren einer Stichprobe durch Histogramm und Boxplot |26.04.2018|2
 3|Skalenniveaus und Verteilungen|- Skalenniveaus - Verteilungen: Gleich- Gauss- Binomial- und Poissonverteilung |03.05.2018|3
