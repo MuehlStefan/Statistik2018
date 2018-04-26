@@ -11,4 +11,4 @@ Die Bewertung der Prüfungsleistung erfolgt nach Punkten:
 - **20 Punkte** von 40 sind für das Bestehen des Kurses notwendig.
 
 ## Hausaufgaben
-Hausaufgaben müssen als PDF-Dokumente bis zum nächsten Sitzungstermin an jose.calvo@uni-wuerzburg.de und pielstroem@biozentrum.uni-wuerzburg.de geschickt werden.
+Hausaufgaben müssen als PDF-Dokumente bis zum nächsten Sitzungstermin an jose.calvo@uni-wuerzburg.de geschickt werden.
