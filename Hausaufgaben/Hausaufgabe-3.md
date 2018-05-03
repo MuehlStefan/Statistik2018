@@ -1,9 +1,9 @@
 # Hausaufgabe 3
 
-## 1
+## Aufgabe 3.1
 Berechnen Sie die Standardabweichung und den Mittelwert für das erreichte Lebesalter der Autoren in **Ihrem** Datensatz (d.h. nicht von den spanischen Autoren). Sie sollten die Daten in Pandas einlesen, aber die Pandas-Funktionen (Series.mean() und Series.std()) **nicht** verwenden, sondern die nativen Funktionen von Python (len, sum, einfache mathematische Kalkulation...; Sie dürfen jedoch sqrt von math benützen (import math; sqrt()).
 
-## 2
+## Aufgabe 3.2
 Sammeln Sie einen weiteren Datensatz.
 
 1. Suchen Sie ein Theaterstück in XML-TEI aus. Beispiele für Quellen:
