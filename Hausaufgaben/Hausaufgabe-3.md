@@ -26,6 +26,8 @@ Beispiel für Theaterstück in XML-TEI (Galdos, *Electra*):
 * importance (primary, secondary, minor)
 * per\_mes\_sps (Anzahl von Sprechakten dieser Person; dafür berechnen bzw. zählen wir wie viele sp (oder speaker) Elemente diese Person spricht
 
+Sie können selber definieren, wie Sie die Werte für *role* (*protagonist, lover, antagonist, other*) und *importance* (*primary, secondary, minor*) den Personen zuteilen.
+
 Beispiel für Tabelle:
 
 https://github.com/pielstroem/Statistik2018/blob/master/Datensaetze/bette006_Galdos_Electra_nodes%3Dcharacters.csv
